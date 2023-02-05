@@ -1,0 +1,5 @@
+test\web\pageObject\CartPage.class
+test\web\pageObject\LandingPage.class
+test\web\pageObject\CheckoutPage.class
+test\web\pageObject\CkInformationPage.class
+test\web\pageObject\LoginPage.class
