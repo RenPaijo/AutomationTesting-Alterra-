@@ -1,4 +1,4 @@
-<center> ![Login_Bot_graphic](https://user-images.githubusercontent.com/114077446/232203258-1f96a80c-4928-4294-a799-b2ed0ed81712.png) </center>
+![Login_Bot_graphic](https://user-images.githubusercontent.com/114077446/232203258-1f96a80c-4928-4294-a799-b2ed0ed81712.png)
 
 # About Soucedemo
 
